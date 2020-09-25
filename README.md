@@ -5,9 +5,9 @@
 <p>I'm from <img src="https://github.com/SeanPrashad/slackmoji/raw/master/emojis/parrots/parrot-indonesia.gif" width="20"/> <strong>Indonesia</strong>!. Currently, choosing my own path as an <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/apple/apple-original.svg" width="14"/> <strong>Apple Enthusiast</strong> and <strong>iOS Software Engineer</strong>.</p>
 
 <img align="left" alt="iOS" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png" />
-<img align="left" alt="macOS" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png" />
+<!-- <img align="left" alt="macOS" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png" />
 <img align="left" alt="watchOS" height="40px" src="https://github.com/jVirus/jVirus/blob/master/Assets/watchos1.jpeg?raw=true" />
-<img align="left" alt="tvOS" height="40px" src="https://github.com/jVirus/jVirus/blob/master/Assets/appletv.png?raw=true" />
+<img align="left" alt="tvOS" height="40px" src="https://github.com/jVirus/jVirus/blob/master/Assets/appletv.png?raw=true" /> -->
 <img align="left" alt="Xcode" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xcode/xcode.png" />
 <!-- <img align="left" alt="Instruments" height="40px" src="https://github.com/jVirus/jVirus/blob/master/Assets/instruments.png?raw=true" /> -->
 <img align="left" alt="AppStore" height="40px" src="https://github.com/jVirus/jVirus/blob/master/Assets/appstore.png?raw=true" />
