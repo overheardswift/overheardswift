@@ -1,4 +1,4 @@
-<p align="left"><img src="https://komarev.com/ghpvc/?username=sikubay" alt="sikubay" /></p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=sikubay" alt="sikubay" /> <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/></p>
 
 <h2> <img src="https://github.com/SeanPrashad/slackmoji/raw/master/emojis/blob/blob-sun-glasses-gif.gif" width="30"/> Hi, I'm <a href="https://blog.sikubay.com" target="_blank">Bayu</a> !</h2>
 
