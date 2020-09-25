@@ -51,9 +51,13 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=sikubay&title=Stars,Commit,Repositories,Issues&theme=monokai&margin-w=18
 )](https://github.com/sikubay/sikubay)
 
-<h2> <img src="https://github.com/SeanPrashad/slackmoji/raw/master/emojis/blob/blob-popcorn-gif.gif" width="30"/> Previous Projects</h2>
+<h2> <img src="https://github.com/SeanPrashad/slackmoji/raw/master/emojis/blob/blob-popcorn-gif.gif" width="30"/> Projects</h2>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sikubay&repo=CloudKitTUTS&theme=monokai)](https://github.com/sikubay/CloudKitTUTS)
+
+<h2> <img src="https://github.com/SeanPrashad/slackmoji/raw/master/emojis/blob/blob-attention-reverse-gif.gif" width="30"/> Contributions </h2>
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sikubay&repo=first-contributions&theme=monokai)](https://github.com/sikubay/first-contributions)
 
 <h2> <img src="https://github.com/SeanPrashad/slackmoji/raw/master/emojis/blob/blob-whee-gif.gif" width="30"/> Find me on</h2>
 
