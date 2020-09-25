@@ -4,9 +4,8 @@
 
 <p>I'm from <img src="https://github.com/SeanPrashad/slackmoji/raw/master/emojis/parrots/parrot-indonesia.gif" width="20"/> <strong>Indonesia</strong>!. Currently, choosing my own path as an <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/apple/apple-original.svg" width="14"/> <strong>Apple Enthusiast</strong> and <strong>iOS Software Engineer</strong>.</p>
 
-<h2> <img src="https://github.com/SeanPrashad/slackmoji/raw/master/emojis/blob/blob-tada-gif.gif" width="30"/> My Stats</h2>
-
-<img align="left" alt="iOS" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png" />
+<p>
+  <img align="left" alt="iOS" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png" />
 <img align="left" alt="macOS" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png" />
 <img align="left" alt="watchOS" height="40px" src="https://github.com/jVirus/jVirus/blob/master/Assets/watchos1.jpeg?raw=true" />
 <img align="left" alt="tvOS" height="40px" src="https://github.com/jVirus/jVirus/blob/master/Assets/appletv.png?raw=true" />
@@ -44,7 +43,11 @@
 <img align="left" alt="Git" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" height="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=sikubay&amp;show_icons=true&amp;theme=monokai" alt="My Github Stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=sikubay&amp;show_icons=true&amp;theme=monokai" style="max-width:100%;float:right;" align="right"/> 
+  </p>
+
+<h2> <img src="https://github.com/SeanPrashad/slackmoji/raw/master/emojis/blob/blob-tada-gif.gif" width="30"/> My Stats</h2>
+
+<img src="https://github-readme-stats.vercel.app/api?username=sikubay&amp;show_icons=true&amp;theme=monokai" alt="My Github Stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=sikubay&amp;show_icons=true&amp;theme=monokai" style="max-width:100%;/> 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sikubay&title=Stars,Commit,Repositories,Issues&theme=monokai&margin-w=18
 )](https://github.com/sikubay/sikubay)
