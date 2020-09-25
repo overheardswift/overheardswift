@@ -47,7 +47,7 @@
 
 <h2> <img src="https://github.com/SeanPrashad/slackmoji/raw/master/emojis/blob/blob-tada-gif.gif" width="30"/> My Stats</h2>
 
-<img src="https://github-readme-stats.vercel.app/api?username=sikubay&amp;show_icons=true&amp;theme=monokai" alt="My Github Stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=sikubay&amp;show_icons=true&amp;theme=monokai" style="max-width:100%;/> 
+<img src="https://github-readme-stats.vercel.app/api?username=sikubay&amp;show_icons=true&amp;theme=monokai" alt="My Github Stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=sikubay&amp;show_icons=true&amp;theme=monokai" style="max-width:100%;"/> 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sikubay&title=Stars,Commit,Repositories,Issues&theme=monokai&margin-w=18
 )](https://github.com/sikubay/sikubay)
