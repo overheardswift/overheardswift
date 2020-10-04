@@ -1,4 +1,5 @@
-<p align="left"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/> <img src="https://komarev.com/ghpvc/?username=sikubay" alt="sikubay" /> </p>
+<p align="left"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/> <img src="https://svgshare.com/i/QDm.svg" alt="Sikubay" /> <img src="https://komarev.com/ghpvc/?username=sikubay" alt="sikubay" /> 
+ </p>
 
 <h2> <img src="https://github.com/SeanPrashad/slackmoji/raw/master/emojis/blob/blob-sun-glasses-gif.gif" width="30"/> Hi, I'm <a href="https://blog.sikubay.com" target="_blank">Bayu</a> !</h2>
 
@@ -61,7 +62,7 @@
 
 <h2> <img src="https://github.com/SeanPrashad/slackmoji/raw/master/emojis/blob/blob-whee-gif.gif" width="30"/> Find me on</h2>
 
-<p> <a href="https://www.linkedin.com/in/sikubay"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://medium.com/@sikubay"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a></p>
+<p> <a href="https://www.linkedin.com/in/sikubay"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://medium.com/@sikubay"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> <a href="https://www.sikubay.com/" target="_blank"><img src="https://svgshare.com/i/QEp.svg" alt="Sikubay"/></a></p>
 
 <hr/>
 <p>Crafted with 🖤 by <b>Sikubay</b></p>
