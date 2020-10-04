@@ -62,7 +62,7 @@
 
 <h2> <img src="https://github.com/SeanPrashad/slackmoji/raw/master/emojis/blob/blob-whee-gif.gif" width="30"/> Find me on</h2>
 
-<p> <a href="https://www.linkedin.com/in/sikubay"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://medium.com/@sikubay"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> <a href="https://www.sikubay.com/" target="_blank"><img src="https://svgshare.com/i/QEp.svg" alt="Sikubay"/></a></p>
+<p> <a href="https://www.linkedin.com/in/sikubay"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25"/></a> <a href="https://medium.com/@sikubay"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height="25"/></a> <a href="https://www.sikubay.com/" target="_blank"><img src="https://svgshare.com/i/QEp.svg" alt="Sikubay" height="25"/></a></p>
 
 <hr/>
 <p>Crafted with 🖤 by <b>Sikubay</b></p>
