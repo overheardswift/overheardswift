@@ -55,6 +55,7 @@
 <h2> <img src="https://github.com/SeanPrashad/slackmoji/raw/master/emojis/blob/blob-popcorn-gif.gif" width="30"/> Projects</h2>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sikubay&repo=CloudKitTUTS&theme=monokai)](https://github.com/sikubay/CloudKitTUTS)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sikubay&repo=NewsPagerTUTS&theme=monokai)](https://github.com/sikubay/NewspagerTUTS)
 
 <h2> <img src="https://github.com/SeanPrashad/slackmoji/raw/master/emojis/blob/blob-attention-reverse-gif.gif" width="30"/> Contributions </h2>
 
