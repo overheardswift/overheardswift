@@ -59,7 +59,8 @@
 
 <h2> <img src="https://github.com/SeanPrashad/slackmoji/raw/master/emojis/blob/blob-attention-reverse-gif.gif" width="30"/> Contributions </h2>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sikubay&repo=first-contributions&theme=monokai)](https://github.com/sikubay/first-contributions)
+[![Contributions](https://github-readme-stats.vercel.app/api/pin/?username=firstcontributions&repo=first-contributions&theme=monokai)](https://github.com/firstcontributions/first-contributions)
+[![Contributions](https://github-readme-stats.vercel.app/api/pin?username=IEEE-VIT&repo=ToDo-iOS&theme=monokai)](https://github.com/IEEE-VIT/ToDo-iOS)
 
 <h2> <img src="https://github.com/SeanPrashad/slackmoji/raw/master/emojis/blob/blob-whee-gif.gif" width="30"/> Find me on</h2>
 
