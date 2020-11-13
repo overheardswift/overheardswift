@@ -61,6 +61,7 @@
 
 [![Contributions](https://github-readme-stats.vercel.app/api/pin/?username=firstcontributions&repo=first-contributions&theme=monokai)](https://github.com/firstcontributions/first-contributions)
 [![Contributions](https://github-readme-stats.vercel.app/api/pin?username=IEEE-VIT&repo=ToDo-iOS&theme=monokai)](https://github.com/IEEE-VIT/ToDo-iOS)
+[![Contributions](https://github-readme-stats.vercel.app/api/pin?username=Say-Their-Name&repo=say-their-names-ios&theme=monokai)](https://github.com/Say-Their-Name/say-their-names-ios)
 
 <h2> <img src="https://github.com/SeanPrashad/slackmoji/raw/master/emojis/blob/blob-whee-gif.gif" width="30"/> Find me on</h2>
 
