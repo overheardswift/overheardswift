@@ -3,7 +3,7 @@
 
 <h2>Hi, I'm <a href="https://blog.sikubay.com" target="_blank">Bayu</a> !</h2>
 
-<p>I'm from <img src="https://github.com/SeanPrashad/slackmoji/raw/master/emojis/parrots/parrot-indonesia.gif" width="20"/> <strong>Indonesia</strong>!. Currently, choosing my own path as an <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/apple/apple-original.svg" width="14"/> <strong>Apple Enthusiast</strong> and <strong>iOS Software Engineer</strong>.</p>
+<p>I'm from <strong>Indonesia</strong>!. Currently, choosing my own path as an <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/apple/apple-original.svg" width="14"/> <strong>Apple Enthusiast</strong> and <strong>iOS Software Engineer</strong>.</p>
 
 <img align="left" alt="iOS" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png" />
 <!-- <img align="left" alt="macOS" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png" />
@@ -63,7 +63,7 @@
 [![Contributions](https://github-readme-stats.vercel.app/api/pin?username=IEEE-VIT&repo=ToDo-iOS&theme=monokai)](https://github.com/IEEE-VIT/ToDo-iOS)
 [![Contributions](https://github-readme-stats.vercel.app/api/pin?username=Say-Their-Name&repo=say-their-names-ios&theme=monokai)](https://github.com/Say-Their-Name/say-their-names-ios)
 
-<h2> Find me on</h2>
+<h2>Find me on</h2>
 
 <p> <a href="https://www.linkedin.com/in/sikubay"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25"/></a> <a href="https://medium.com/@overheardswift"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height="25"/></a> <a href="https://www.overheardswift.com/" target="_blank"><img src="https://svgshare.com/i/QEp.svg" alt="Overheard Swift" height="25"/></a></p>
 
