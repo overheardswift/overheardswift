@@ -24,4 +24,6 @@
 ### Blog posts <img align="center" src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium"> :
 
 <!-- BLOG-POST-LIST:START -->
+- [Automatically translates views to use Auto Layout with Builder Pattern in Swift](https://medium.com/@overheardswift/automatically-translates-views-to-use-auto-layout-with-builder-pattern-b9b61fae9b1a?source=rss-5f85a62d81fb------2)
+- [Build objects using block-based builder pattern in Swift](https://medium.com/@overheardswift/build-objects-using-block-based-builder-pattern-in-swift-a8cbf641d0e6?source=rss-5f85a62d81fb------2)
 <!-- BLOG-POST-LIST:END -->
