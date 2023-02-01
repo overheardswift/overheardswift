@@ -2,7 +2,7 @@
   <img src="https://img.shields.io/twitter/follow/overheardswift?style=social" alt="Twitter Follow">
   <img src="https://komarev.com/ghpvc/?username=overheardswift&label=Profile%20views&color=0e75b6&style=flat" alt="overheardswift">
 </p>
-<h2 align="center">Hi 👋, I'm Bayu Kurniawan.</h2>
+<h2 align="center">Hi 👋, I'm BK.</h2>
 <h3 align="center">I build iOS Applications and a cyber security enthusiast.</h3>   
 <p align="center">
     <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" alt="Swift">
